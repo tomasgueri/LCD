@@ -8,6 +8,10 @@ NOTE: This file contains the styling for the band Template. You can edit/add any
  
 h1, h2, h3, h4, h5, h6 { font-family: 'Montserrat', sans-serif; font-weight: normal; color: #363636; margin-top: 0px; text-transform: capitalize; }
  
+.gg {
+	font-size: 16px !important;
+}
+
 .button { font-weight: bold; }
 .button, .form-control, #back-to-top .top, .footer-Newsletter .form-control { border-radius: 0; }
 

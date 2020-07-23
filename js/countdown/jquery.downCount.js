@@ -18,7 +18,7 @@
 
         // Throw error if date is set incorectly
         if (!Date.parse(settings.date)) {
-            $.error('Incorrect date format, it should look like this, 12/24/2012 12:00:00.');
+            $.error('Incorrect date format, it should look like this, 12/24/2020 12:00:00.');
         }
 
         // Save container
