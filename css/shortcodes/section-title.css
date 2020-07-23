@@ -23,7 +23,7 @@ NOTE: This file contains Section titles CSS.*/
 .section-title.right .title:before { right: 0; left: inherit; margin-left: inherit; }
 
 /*bg */
-.section-title span.theme-bg { background: #84ba3f; color: #ffffff; padding: 0 15px; } 
+.section-title span.theme-bg { background: #ffda00; color: #ffffff; padding: 0 15px; } 
 
 /*dark-bg*/
 .section-title.dark-bg .title { color: #ffffff; } 
@@ -38,7 +38,7 @@ NOTE: This file contains Section titles CSS.*/
 .section-title:nth-child(odd) .title-effect::before { background: #84ba3f; }
 
 section:hover .title-effect::before, section:focus .title-effect::before {transform: scale3d(1,1,1); }
-section:hover .title-effect:nth-child(even), section:focus .title-effect:nth-child(even) { color: #84ba3f; }
+section:hover .title-effect:nth-child(even), section:focus .title-effect:nth-child(even) { color: #ffda00; }
 
  /*dark*/
 section:nth-child(odd) .title-effect.dark::before { background: #ffffff; }

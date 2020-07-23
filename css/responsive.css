@@ -550,7 +550,7 @@ h5 {font-size: 15px;}
 .search-cart span.icon, .search-cart i.icon { line-height: 50px; }
 .fancy .mega-menu > section.menu-list-items .menu-links { float: none; position: absolute; width: 100%; top: 100%; }
 .header.fancy .mega-menu > section.menu-list-items { box-shadow: none; }
-.mega-menu .menu-logo img { height: 30px; margin: 5px 0; }
+.mega-menu .menu-logo img { height: 40px; margin: 5px 0; }
 .mega-menu .menu-links { overflow: auto; }
 .mega-menu .menu-links > li.active .drop-down-multilevel a:hover { color: #323232; }
 .mega-menu .drop-down-multilevel li:hover > a i.fa { color: #323232; }
@@ -838,7 +838,7 @@ ul.page-breadcrumb { padding-top: 10px; }
 .blog .timeline > li > .timeline-badge { right: -56px; }
 .blog .timeline > li.timeline-inverted > .timeline-badge { left: -53px; }
 .action-box.action-box-border a.button { left: 0; }
-.footer #logo-footer { height: 40px; }
+.footer #logo-footer { height: 80px; }
 
 /*************************************
              v1.0.2

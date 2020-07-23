@@ -43,7 +43,7 @@ NOTE: This file contains Accordion CSS.
 .accordion.accordion-border .acd-heading { background: transparent; border:1px solid #eeeeee; box-shadow: none; }
 .accordion.accordion-border .acd-heading  { margin-bottom: 20px; padding: 20px 30px; }
 .accordion.accordion-border .acd-des  { padding: 0 30px 20px; }
-.accordion.accordion-border .acd-group.acd-active .acd-heading, .accordion.accordion-border .acd-group .acd-heading:hover { color: #fff; background: #84ba3f; }
+.accordion.accordion-border .acd-group.acd-active .acd-heading, .accordion.accordion-border .acd-group .acd-heading:hover { color: #fff; background: #ffda00; }
 
 /* Accordion Simple */
 .accordion.animated .acd-group .acd-heading { box-shadow: none; border:none; font-size: 18px; margin-bottom: 0; color:#363636; text-transform: inherit; font-weight: 700; padding: 20px 0px 0; }

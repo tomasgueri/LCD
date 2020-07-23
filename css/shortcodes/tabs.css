@@ -14,7 +14,7 @@ NOTE: This file contains tab CSS.
 .tab .nav.nav-tabs li { margin-bottom: 0px; float: none; display: inline-block; }
 .tab .nav.nav-tabs li a { border: none; line-height: normal; border-radius: 0px; padding: 12px 30px; background: #f6f7f8; color: #353535; border:1px solid #eeeeee; }
 .tab .nav.nav-tabs li a i { padding-right: 5px; }
-.tab .nav.nav-tabs > li > a.active, .nav.nav-tabs > li > a.active:focus, .nav.nav-tabs > li > a.active:hover {  background: #84ba3f; color: #fff; border-color:transparent; }
+.tab .nav.nav-tabs > li > a.active, .nav.nav-tabs > li > a.active:focus, .nav.nav-tabs > li > a.active:hover {  background: #ffda00; color: #fff; border-color:transparent; }
 
 /*nav-border*/
 .nav-border .nav.nav-tabs li a { margin-right: 0; border:1px solid #eeeeee; background: transparent; }
