@@ -441,7 +441,7 @@ POTENZA.masonry = function () {
         if ($countdownTimer.exists()) {
             loadScript(plugin_path + 'countdown/jquery.downCount.js', function() {
                 $countdownTimer.downCount({
-                    date: '08/21/2020 12:00:00', // Month/Date/Year HH:MM:SS
+                    date: '08/27/2020 12:00:00', // Month/Date/Year HH:MM:SS
                     offset: null
                 });
             });
